@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d44280bc-5f97-4a70-ab84-9986eb2b85d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/week03/ex1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/ex2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/ex3.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1guIwkJI6SkcE6zmzWFgLniCYwm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/week03/ex3" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Labs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d44280bc-5f97-4a70-ab84-9986eb2b85d9" name="Default Changelist" comment="" />
+      <created>1598958290935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598958290935</updated>
+      <workItem from="1598958292247" duration="7005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="258" y="41" width="1092" height="788" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598965482878">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="258" y="41" width="1092" height="788" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.985@0.27.1920.985" timestamp="1598965482878" />
+    <state x="690" y="220" width="530" height="605" key="FileChooserDialogImpl" timestamp="1598965341409">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="690" y="220" width="530" height="605" key="FileChooserDialogImpl/0.27.1920.985@0.27.1920.985" timestamp="1598965341409" />
+  </component>
+</project>
