@@ -9,7 +9,18 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d44280bc-5f97-4a70-ab84-9986eb2b85d9" name="Default Changelist" comment="" />
+    <list default="true" id="d44280bc-5f97-4a70-ab84-9986eb2b85d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/week05/ex1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week05/ex1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week05/ex2.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week05/ex2_1.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week05/file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week05/out1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week05/read_and_add_number.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week05/read_and_add_with_lock.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week04/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,11 +33,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1guIwkJI6SkcE6zmzWFgLniCYwm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
@@ -39,9 +54,9 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -54,17 +69,25 @@
       <option name="presentableId" value="Default" />
       <updated>1598958290935</updated>
       <workItem from="1598958292247" duration="7771000" />
+      <workItem from="1600280083328" duration="3539000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="258" y="41" width="1092" height="788" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598965482878">
       <screen x="0" y="27" width="1920" height="985" />
     </state>
     <state x="258" y="41" width="1092" height="788" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.985@0.27.1920.985" timestamp="1598965482878" />
+    <state x="624" y="304" width="661" height="445" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600285335858">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="624" y="304" width="661" height="445" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.985@0.27.1920.985" timestamp="1600285335858" />
     <state x="690" y="220" width="530" height="605" key="FileChooserDialogImpl" timestamp="1598965341409">
       <screen x="0" y="27" width="1920" height="985" />
     </state>
