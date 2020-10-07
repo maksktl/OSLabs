@@ -1,0 +1,9 @@
+if we are talking about RAM, then physical is the address of a specific memory cell on page zero
+ (if RAM is divided into pages and blocks) . 
+Virtual address - the address of the memory cell in the virtual
+ memory page. The latter is determined by the resources of the OS itself and the features of
+ the memory management hardware. It can be located outside of the physical RAM.
+
+example:
+Physical address: Pushkin street, the house 14, room 7
+Virtual address: university.innopolis.ru
