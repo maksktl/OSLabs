@@ -9,7 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b4c9dae-d7b5-4aeb-ad13-ee306177c799" name="Default Changelist" comment="" />
+    <list default="true" id="0d31b7ed-2c1e-43ed-8309-2323c6e41716" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../week09/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week09/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1isr1a3tfQx0JgRVDjEjkQ0EcfM" />
+  <component name="ProjectId" id="1jpxZDNCGK72kBbSuTdna0A3zvB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,28 +33,27 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1b4c9dae-d7b5-4aeb-ad13-ee306177c799" name="Default Changelist" comment="" />
-      <created>1602706925673</created>
+      <changelist id="0d31b7ed-2c1e-43ed-8309-2323c6e41716" name="Default Changelist" comment="" />
+      <created>1604514892963</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602706925673</updated>
-      <workItem from="1602706926843" duration="1291000" />
+      <updated>1604514892963</updated>
+      <workItem from="1604514896103" duration="2527000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="233" key="run.anything.popup" timestamp="1604518396344">
+      <screen x="0" y="34" width="1920" height="978" />
+    </state>
+    <state x="540" y="233" key="run.anything.popup/0.34.1920.978@0.34.1920.978" timestamp="1604518396344" />
   </component>
 </project>

@@ -1,0 +1,3 @@
+When you increase BUF_SIZE, it turns out that copying is faster
+O_SYNC makes the copy process take much longer, and the blocking
+time of the I / o process by the time utility is not displayed
