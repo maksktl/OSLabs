@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d31b7ed-2c1e-43ed-8309-2323c6e41716" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../week09/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week09/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,7 +44,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604514892963</updated>
-      <workItem from="1604514896103" duration="2527000" />
+      <workItem from="1604514896103" duration="3055000" />
+      <workItem from="1604701037614" duration="10000" />
+      <workItem from="1605124417226" duration="60000" />
     </task>
     <servers />
   </component>
@@ -51,6 +54,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="690" y="224" width="530" height="605" key="FileChooserDialogImpl" timestamp="1605124475028">
+      <screen x="0" y="34" width="1920" height="978" />
+    </state>
+    <state x="690" y="224" width="530" height="605" key="FileChooserDialogImpl/0.34.1920.978@0.34.1920.978" timestamp="1605124475028" />
     <state x="540" y="233" key="run.anything.popup" timestamp="1604518396344">
       <screen x="0" y="34" width="1920" height="978" />
     </state>
