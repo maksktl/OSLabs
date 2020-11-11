@@ -10,7 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d44280bc-5f97-4a70-ab84-9986eb2b85d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week05/ex3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week13/ex1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week13/ex1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week13/ex2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/week03/ex3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -63,6 +65,7 @@
       <workItem from="1598958292247" duration="7771000" />
       <workItem from="1600280083328" duration="5134000" />
       <workItem from="1601581991261" duration="12000" />
+      <workItem from="1605124482732" duration="1913000" />
     </task>
     <task id="LOCAL-00001" summary="ex2.sh">
       <created>1600285787396</created>
@@ -71,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600285787396</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="week13">
+      <created>1605124520046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605124520046</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,7 +90,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ex2.sh" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex2.sh" />
+    <MESSAGE value="week13" />
+    <option name="LAST_COMMIT_MESSAGE" value="week13" />
   </component>
   <component name="WindowStateProjectService">
     <state x="258" y="41" width="1092" height="788" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598965482878">
@@ -91,10 +102,11 @@
       <screen x="0" y="27" width="1920" height="985" />
     </state>
     <state x="624" y="304" width="661" height="445" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.985@0.27.1920.985" timestamp="1600285335858" />
-    <state x="316" y="27" width="1277" height="985" key="CommitChangelistDialog2" timestamp="1600285787030">
-      <screen x="0" y="27" width="1920" height="985" />
+    <state x="316" y="34" width="1267" height="978" key="CommitChangelistDialog2" timestamp="1605124519571">
+      <screen x="0" y="34" width="1920" height="978" />
     </state>
     <state x="316" y="27" width="1277" height="985" key="CommitChangelistDialog2/0.27.1920.985@0.27.1920.985" timestamp="1600285787030" />
+    <state x="316" y="34" width="1267" height="978" key="CommitChangelistDialog2/0.34.1920.978@0.34.1920.978" timestamp="1605124519571" />
     <state x="690" y="220" width="530" height="605" key="FileChooserDialogImpl" timestamp="1598965341409">
       <screen x="0" y="27" width="1920" height="985" />
     </state>
@@ -103,5 +115,9 @@
       <screen x="0" y="27" width="1920" height="985" />
     </state>
     <state x="455" y="192" width="1000" height="661" key="Vcs.Push.Dialog.v2/0.27.1920.985@0.27.1920.985" timestamp="1600286200614" />
+    <state x="540" y="233" key="run.anything.popup" timestamp="1605125859381">
+      <screen x="0" y="34" width="1920" height="978" />
+    </state>
+    <state x="540" y="233" key="run.anything.popup/0.34.1920.978@0.34.1920.978" timestamp="1605125859381" />
   </component>
 </project>
